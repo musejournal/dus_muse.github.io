@@ -6,7 +6,7 @@ const preCache = [
   "/muse.github.io/css/style.css",
   "/muse.github.io/js/script.js",
 ];
-const VERSION = "1732147699541";
+const VERSION = "1732148508887";
 const cacheDomain = [
   "fonts.googleapis.com",
   "npm.webcache.cn",
